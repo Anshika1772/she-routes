@@ -1,0 +1,17 @@
+[
+  {
+    "area_type": "commercial",
+    "time": "day",
+    "crowd_score": 0.9
+  },
+  {
+    "area_type": "commercial",
+    "time": "night",
+    "crowd_score": 0.6
+  },
+  {
+    "area_type": "residential",
+    "time": "night",
+    "crowd_score": 0.3
+  }
+]

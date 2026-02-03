@@ -1,0 +1,17 @@
+[
+  {
+    "lat": 26.8467,
+    "lng": 80.9462,
+    "area_type": "commercial"
+  },
+  {
+    "lat": 26.8475,
+    "lng": 80.9470,
+    "area_type": "residential"
+  },
+  {
+    "lat": 26.8500,
+    "lng": 80.9500,
+    "area_type": "isolated"
+  }
+]
